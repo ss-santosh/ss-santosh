@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm SANTOSH SAHOO</h1>
 <h3 align="center">A passionate developer from India with a strong foundation in HTML, CSS, JavaScript, Java, python and C.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ss-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="ss-santosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss-santosh" alt="ss-santosh" /></a> </p>
-
 - 🌱 Currently Learning **I'm always ready to learn and improve.**
 
 - ⚡ Fun fact **I think i am funny.**
@@ -26,3 +22,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ss-santosh&" alt="ss-santosh" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ss-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="ss-santosh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss-santosh" alt="ss-santosh" /></a> </p>
