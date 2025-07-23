@@ -1,6 +1,21 @@
 ![My cool GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 <h1 align="center">Hi 👋, I'm SANTOSH SAHOO</h1>
-<h3 align="center">A passionate developer from India with a strong foundation in HTML, CSS, JavaScript, Java, python and C.</h3>
+<h3 align="center">## 🙋‍♂️ About Me
+
+I'm Santosh, a B.Tech CSE student and a passionate learner on the path to becoming a skilled cybersecurity professional and ethical hacker.
+
+I love exploring how systems work, how they can break, and—most importantly—how to secure them. I enjoy hands-on tasks like configuring firewalls, writing security scripts, and solving real-world hacking challenges through platforms like TryHackMe.
+
+This GitHub is where I document my learning journey, share scripts and walkthroughs, and build a strong foundation in security, Linux, scripting, and more.
+
+🚀 I'm currently focusing on:
+- 🔐 Cybersecurity fundamentals
+- 🐧 Linux tools and firewall configurations
+- 🐍 Python scripting for automation
+- 💻 CTFs and TryHackMe labs
+
+Stay curious, stay secure 🔒
+.</h3>
 
 - 🌱 Currently Learning **I'm always ready to learn and improve.**
 
