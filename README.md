@@ -1,4 +1,4 @@
-![My cool GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+![My cool GIF]([https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif](https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif)
 <h1 align="center">Hi 👋, I'm SANTOSH SAHOO</h1>
 <h3 align="center">A B.Tech CSE student and a passionate learner on the path to becoming a skilled cybersecurity professional and ethical hacker.
 
