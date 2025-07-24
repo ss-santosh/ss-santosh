@@ -1,5 +1,5 @@
-![My cool GIF](<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/25a6a3ea-3cee-48aa-8bc7-2a5ae623ad80" />
-)
+![My cool GIF](<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/61a513a5-59f9-498a-a7f6-be2672a4b101" />
+
 <h1 align="center">Hi 👋, I'm SANTOSH SAHOO</h1>
 <h3 align="center">A B.Tech CSE student and a passionate learner on the path to becoming a skilled cybersecurity professional and ethical hacker.
 
