@@ -1,4 +1,4 @@
- <div style="text-align: center;">
+<div style="text-align: center;">
 <img width="480" height="270" alt="image" alt="Centered Image" src="https://github.com/user-attachments/assets/61a513a5-59f9-498a-a7f6-be2672a4b101" />
  </div>
 
