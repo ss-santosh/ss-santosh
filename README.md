@@ -14,6 +14,7 @@ This GitHub is where I document my learning journey, share scripts and walkthrou
 🐧 Linux tools and firewall configurations
 🐍 Python scripting for automation
 💻 CTFs and TryHackMe labs
+&  red teaming
 
 
 Stay curious, stay secure 🔒
